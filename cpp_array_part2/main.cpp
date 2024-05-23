@@ -30,7 +30,7 @@ int main() {
 		}
 	}
 
-	cout << endl << endl << "Array afther changes:" << endl;
+	cout << endl << endl << "Array after changes:" << endl;
 
 	for (int i = 0; i < size; i++) {
 		if (i >= count) {
